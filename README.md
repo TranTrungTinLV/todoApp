@@ -19,6 +19,6 @@ Before you begin, ensure you have met the following requirements:
 - ```sh
   yarn start
 - ```sh
-  a (android)
-  a (iOS)
+  a #android
+  i #iOS
   
