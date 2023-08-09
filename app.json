@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "RNcourse",
+    "slug": "RNcourse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "backgroundColor":"1e085a",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+    "backgroundColor":"1e085a"
+
+    },
+    "android": {
+    "backgroundColor":"1e085a",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png"
+
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
